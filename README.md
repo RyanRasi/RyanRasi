@@ -8,16 +8,11 @@
 
 🌟 Outside the world of tech, I'm an avid snowboarder, sailor, and golfer. These activities keep me energised and ready to take on challenges, whether they're on the slopes, out at sea, or on the green.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi)]
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light)
-
 [linkedin]: https://www.linkedin.com/in/ryan-rasi/
 [website]: https://www.ryanrasi.com
 
-<a>
+<a href="https://github.com/ryanrasi/">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi&layout=compact&theme=gruvbox_light&langs_count=8&card_width=320" />
+<a href="https://github.com/ryanrasi/">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi&layout=compact&theme=gruvbox_light&langs_count=8" />
 </a>
