@@ -22,7 +22,7 @@
 [cv/resume]: 
 
 <a href="https://github.com/ryanrasi/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light" />
 <a href="https://github.com/ryanrasi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi&layout=compact&theme=gruvbox_light&langs_count=8&card_width=320" />
 </a>
