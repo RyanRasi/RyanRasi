@@ -16,8 +16,8 @@
 [website]: https://www.ryanrasi.com
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi&layout=compact&langs_count=8" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrasi&layout=compact&langs_count=8" />
 </a>
