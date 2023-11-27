@@ -9,17 +9,20 @@
 🌟 Outside the world of tech, I'm an avid snowboarder, sailor, fencer, and golfer. These activities keep me energised and ready to take on challenges, whether they're on the slopes, out at sea, in a tournament, or on the green.
 
 ### I specialise in
-- AI
-- Full stack deployment
-- Azure
+
+| AI      | Full stack deployment | Devops | Azure |
+|-|-|-|-|
 
 ### Programming Languages
 
+Python, Javascript, Java, Typescript, HTML, CSS, C++, SQL, Bash, GoLang, C#, PHP, MATLAB, R, KQL, PowerShell
+
 ### Technologies
 
-[linkedin]: https://www.linkedin.com/in/ryan-rasi/
-[website]: https://www.ryanrasi.com
-[cv/resume]: 
+Azure, Docker, Kubernetes, Node.js, Vue.js, React.js, Jira, Git, Linux, Unix, Pipelines
+
+| [LinkedIn](https://www.linkedin.com/in/ryan-rasi/) | [Website](https://www.ryanrasi.com) | [CV/Resume](https://www.ryanrasi.com) |
+|-|-|-|
 
 <a href="https://github.com/ryanrasi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrasi&count_private=true&show_icons=true&theme=gruvbox_light" />
